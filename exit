@@ -1,0 +1,237 @@
+[33mcommit 291e3cd19a36427f8976db3d1e8cebb1f0bf7911[m[33m ([m[1;36mHEAD -> [m[1;32mnew-kashif-test[m[33m, [m[1;32mmain[m[33m, [m[1;32mkashif-test[m[33m, [m[1;32mbackup-kashif-test[m[33m)[m
+Author: Malik Zubair <malikzubairmaqsood@gmail.com>
+Date:   Mon Nov 20 12:27:01 2023 +0500
+
+    updated homepage set
+
+[33mcommit 33b8974b9f73ebc48afc757bae37c193fe66d72b[m
+Author: Malik Zubair <malikzubairmaqsood@gmail.com>
+Date:   Mon Nov 20 11:13:53 2023 +0500
+
+    homepage set
+
+[33mcommit 7223597d95037cbe0a35ce7856ec38ce00eb1cbc[m
+Author: MalikZubair01 <malikzubairmaqsood@gmail.com>
+Date:   Sat Nov 18 14:12:28 2023 +0500
+
+    fix new version error
+
+[33mcommit ffb2df7b49b90826d71be9c9f0fbf8113f3d1751[m[33m ([m[1;31mupstream/kashif-test[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/kashif-test[m[33m)[m
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Mon Oct 30 16:04:20 2023 +0500
+
+    commit
+
+[33mcommit 8a60da87b1f2fbe8813d9abb6f1f981e749109ae[m
+Merge: 5595ba06 524e0967
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Thu Oct 26 14:01:27 2023 +0500
+
+    Merge branch 'kashif-test' of https://github.com/Mkashif163/frontend-im into kashif-test
+
+[33mcommit 5595ba060e47e30fe4d8121b522845b46d83d6db[m
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Thu Oct 26 14:00:57 2023 +0500
+
+    helpcenter
+
+[33mcommit e6820c652581e17971f1bf2c7202f1ae5bbfe203[m
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Thu Oct 26 14:00:37 2023 +0500
+
+    helpenter
+
+[33mcommit 524e0967f245a96fe6abec1b279fc0c40049f0d0[m
+Author: Muhammad Kashif <80560804+Mkashif163@users.noreply.github.com>
+Date:   Wed Oct 25 11:38:20 2023 +0500
+
+    aa
+
+[33mcommit 7c3ac31b857dd4fc036e08434c45e3709ac50fdc[m
+Author: Muhammad Kashif <80560804+Mkashif163@users.noreply.github.com>
+Date:   Wed Oct 25 10:27:15 2023 +0500
+
+    appolo remove
+
+[33mcommit 66dad5ea515912f88a4a1e9ee209ef96b82c17e7[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Tue Oct 24 16:55:31 2023 +0500
+
+    brands dynamic
+
+[33mcommit 8e17f9d60935c4c48b60b1a4591104561e1ea4a4[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Tue Oct 24 15:31:55 2023 +0500
+
+    coupens dynamic
+
+[33mcommit ab50ad0a6c06c626e332ceb3e46432de3605b27c[m
+Merge: 29edbe03 18f512e0
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Tue Oct 24 14:38:19 2023 +0500
+
+    changings
+
+[33mcommit 29edbe0314ccd2013dc776114783044e2b10f35f[m
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Tue Oct 24 14:31:22 2023 +0500
+
+    directly
+
+[33mcommit 18f512e0ee3dd0e93ca035a584b613716d25762d[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Tue Oct 24 14:24:30 2023 +0500
+
+    add and conditon setted
+
+[33mcommit 885cd1fcf3cfb9f5a63106ec54323a13dca062c3[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Tue Oct 24 13:05:56 2023 +0500
+
+    checkout changes few
+
+[33mcommit d278e546786dc8013b8731dd6c4187fb4081de57[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Tue Oct 24 13:02:32 2023 +0500
+
+    product slick working
+
+[33mcommit 32be436ca49c29e0e088a7495e4ea0a6a0886e22[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Mon Oct 23 17:26:07 2023 +0500
+
+    checkout compeletd
+
+[33mcommit c67b53415ad8d68e352cebb0f5d99220b23adf3c[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Mon Oct 23 15:08:23 2023 +0500
+
+    oreder review added and working
+
+[33mcommit 7031c4a8a1ab040e367cb0a90354033dd4581bb0[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Mon Oct 23 10:34:16 2023 +0500
+
+    fixed inputs
+
+[33mcommit d26449716c111faafd2231662dbeb183bab3fff5[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Fri Oct 20 14:46:37 2023 +0500
+
+    checkout wizard added
+
+[33mcommit 886c18816d89328a497a04259eddf6d63e0f372c[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Thu Oct 19 14:52:17 2023 +0500
+
+    add to cart with condition is working
+
+[33mcommit 88c0d3a5de676f45e1a5cf2aa0424e349beac501[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Thu Oct 19 13:36:51 2023 +0500
+
+    top category setted
+
+[33mcommit c93c49cb3bb67be4156eee3ec30a5e7d156574c6[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Thu Oct 19 13:25:39 2023 +0500
+
+    pagination fixed
+
+[33mcommit fff10b8e38b09d58fb10b5708918599c7b4ab1a5[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Thu Oct 19 10:19:25 2023 +0500
+
+    optimized and fast app
+
+[33mcommit c4900ba8945a13187dafb3537a22f16fc75920d2[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Wed Oct 18 16:47:33 2023 +0500
+
+    error resolved
+
+[33mcommit 304d28b0efa6ca856418bf802710ab5d6b57584a[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Wed Oct 18 16:40:30 2023 +0500
+
+    alll product and zoom issue solved
+
+[33mcommit 18ca587cf6dcab22f848fbd0cb6a3424707dd910[m
+Merge: 6868e3d5 4e834a50
+Author: Muhammad Kashif <80560804+Mkashif163@users.noreply.github.com>
+Date:   Wed Oct 18 16:40:06 2023 +0500
+
+    Merge pull request #11 from IsrarRashid/israr-branch
+    
+    -       Blog page css disturbs other pages of industry mall. (resolved)
+
+[33mcommit 4e834a506c81762c666d1c165af0957400cb9f92[m
+Merge: bdc76ccf 6868e3d5
+Author: Muhammad Kashif <80560804+Mkashif163@users.noreply.github.com>
+Date:   Wed Oct 18 16:38:39 2023 +0500
+
+    Merge branch 'kashif-test' into israr-branch
+
+[33mcommit bdc76ccf9db7e0a84a982ded792a3d164f3f7a7b[m
+Author: Israr Rashid <israrrashid3@gmail.com>
+Date:   Wed Oct 18 16:26:26 2023 +0500
+
+    -       Blog page css disturbs other pages of industry mall. (resolved)
+    -       Deals of the day Slider component is not working properly as delivered to kashif. (resolved)
+    -       cursor hand sign applied on “New” and “Used” button of each product. (resolved)
+    -       Deals of the day component contains product whose quantity is zero means out of stock products are also showing which is not desirable. (resolved).
+    -       More html navigation links found and replaced with next.js navigation links.
+
+[33mcommit 6868e3d5a46ce8a3bb22e55c62dfa11bdf191db1[m
+Merge: bc06e66d b976f2cd
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Wed Oct 18 13:23:11 2023 +0500
+
+    Merge branch 'kashif-test' of https://github.com/Mkashif163/frontend-im into kashif-test
+
+[33mcommit bc06e66d3eaf937c0f6cc8225b8452c3ba4f6b0f[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Wed Oct 18 13:17:22 2023 +0500
+
+    product fixed and coupens added
+
+[33mcommit b976f2cd2b7526482c5ba153239277f46a4bc28d[m
+Merge: 0bec28f8 1cd19f02
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Wed Oct 18 12:38:33 2023 +0500
+
+    Merge branch 'kashif-test' of https://github.com/Mkashif163/frontend-im into kashif-test
+
+[33mcommit 0bec28f80051195fd00da1256bb98d116aa3f2d1[m
+Author: Saliha Kazmi <117811179+saliha10@users.noreply.github.com>
+Date:   Wed Oct 18 12:00:06 2023 +0500
+
+    my code am saleha
+
+[33mcommit 1cd19f0243b4cd35c982051ae84b7042326ce330[m
+Author: mkashif163 <muhammadkashifbhatti70@gmail.com>
+Date:   Tue Oct 17 16:52:00 2023 +0500
+
+    make some changes fixing confilict errors
+
+[33mcommit d43dfdffe3ec5b1db72e5d8776fd0986a5d54c57[m
+Merge: 878b219f e9ec5024
+Author: Muhammad Kashif <80560804+Mkashif163@users.noreply.github.com>
+Date:   Tue Oct 17 16:08:24 2023 +0500
+
+    Merge pull request #10 from IsrarRashid/israr-branch
+    
+    Israr branch
+
+[33mcommit e9ec50247217122dd9afcb0725510375630df0b6[m
+Merge: a1a2f3eb 878b219f
+Author: Muhammad Kashif <80560804+Mkashif163@users.noreply.github.com>
+Date:   Tue Oct 17 16:08:08 2023 +0500
+
+    Merge branch 'kashif-test' into israr-branch
+
+[33mcommit a1a2f3ebde47aba87648111899e6967b57c8bd16[m
+Author: Israr Rashid <israrrashid3@gmail.com>
+Date:   Tue Oct 17 15:47:34 2023 +0500
+
+    hand sign added on logo, footer links optimized, blogs page added(to be continue), fake loader now hidden due to which speed or performance of navigation between 
