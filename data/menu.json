@@ -1,0 +1,125 @@
+[
+  {
+    "title": "More",
+    "type": "sub",
+    "children": [
+      {
+        "title": "Account",
+        "type": "sub",
+        "children": [
+          {
+            "path": "/pages/account/wishlist",
+            "title": "wishlist",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/cart",
+            "title": "cart",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/dashboard",
+            "title": "dashboard",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/login",
+            "title": "login",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/register",
+            "title": "register",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/contact",
+            "title": "contact",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/forget-password",
+            "title": "forget password",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/profile",
+            "title": "profile",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/checkout",
+            "title": "checkout",
+            "type": "link"
+          }
+        ]
+      },
+      {
+        "path": "/pages/about-us",
+        "title": "about us",
+        "type": "link"
+      },
+      {
+        "path": "/pages/search",
+        "title": "search",
+        "type": "link"
+      },
+      {
+        "path": "/pages/typography",
+        "title": "typography ",
+        "type": "link"
+      },
+      {
+        "path": "/pages/review",
+        "title": "review",
+        "type": "link"
+      },
+      {
+        "path": "/pages/order-success",
+        "title": "order success",
+        "type": "link"
+      },
+      {
+        "path": "/pages/order-history",
+        "title": "order history",
+        "type": "link"
+      },
+      {
+        "title": "Compare",
+        "type": "sub",
+        "children": [
+          {
+            "path": "/pages/compare/compare-1",
+            "title": "compare",
+            "type": "link"
+          },
+          {
+            "path": "/pages/compare/compare-2",
+            "title": "compare-2",
+            "type": "link"
+          }
+        ]
+      },
+      {
+        "path": "/pages/look-book",
+        "title": "lookbook",
+        "type": "link"
+      },
+      {
+        "path": "/pages/404",
+        "title": "404",
+        "type": "link"
+      },
+      {
+        "path": "/pages/coming-soon",
+        "title": "coming soon",
+        "type": "link"
+      },
+      {
+        "path": "/pages/faq",
+        "title": "faq",
+        "type": "link"
+      }
+    ]
+  }
+]

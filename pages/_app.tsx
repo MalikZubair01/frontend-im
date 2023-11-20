@@ -21,30 +21,28 @@ import "../data/i18n";
 function MyApp({ Component, pageProps }) {
   return (
     <>
-     
-        <Loader>
-          <div>
-            <ApiDataProvider>
-              <CurrencyContextProvider>
-                <MenuContextProvider>
-                  <CartProvider>
-                    <WishlistProvider>
-                      <CompareProvider>
-                        <FilterProvider>
-                          <Component {...pageProps} />
-                        </FilterProvider>
-                      </CompareProvider>
-                    </WishlistProvider>
-                  </CartProvider>
-                </MenuContextProvider>
-              </CurrencyContextProvider>
-              <ToastContainer />
-              <TaptoTop />
-              {/* <Customizer /> */}
-            </ApiDataProvider>
-          </div>
-        </Loader>
-
+      <Loader>
+        <div>
+          <ApiDataProvider>
+            <CurrencyContextProvider>
+              <MenuContextProvider>
+                <CartProvider>
+                  <WishlistProvider>
+                    <CompareProvider>
+                      <FilterProvider>
+                        <Component {...pageProps} />
+                      </FilterProvider>
+                    </CompareProvider>
+                  </WishlistProvider>
+                </CartProvider>
+              </MenuContextProvider>
+            </CurrencyContextProvider>
+            <ToastContainer />
+            <TaptoTop />
+            {/* <Customizer /> */}
+          </ApiDataProvider>
+        </div>
+      </Loader>
     </>
   );
 }
